@@ -8,6 +8,6 @@ git commit и энтр, откроется редактор. выйти из него ESC :
 git config --global core.editor "'C:\Program Files\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin" Добавили свой редактор для Комитов
 git checkout -b new_f создание новой ветки с названием new_f и тут же переход в нее
 git branch смотрим какие ветки у нас есть
-
+hgjgh
 
  
