@@ -1,4 +1,4 @@
-reaferaf
+branch master
 git rm --cached удаление со статуса add
 git checkout -- mysor/ возврат к предыдущему коммиту
 git log  показать историю коммитов выход из него q
