@@ -1,1 +1,3 @@
 reaferaf
+git rm --cached удаление со статуса add
+git checkout -- mysor/ возврат к предыдущему коммиту
