@@ -6,5 +6,8 @@ git log --since=2.weeks показать историю за последние 2 недели
 git log -p -2 покажи последние 2 изменения(2 коммита)
 git commit и энтр, откроется редактор. выйти из него ESC :
 git config --global core.editor "'C:\Program Files\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin" Добавили свой редактор для Комитов
+git checkout -b new_f создание новой ветки с названием new_f и тут же переход в нее
+git branch смотрим какие ветки у нас есть
+
 
  
