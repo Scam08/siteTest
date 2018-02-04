@@ -1,1 +1,2 @@
 areuuuuready
+git rm --cached mysor/eg.txt
