@@ -61,7 +61,7 @@ public class Main extends Application {
             if (keyCode == KeyCode.W){
                 cylinder.setRotationAxis(Rotate.X_AXIS);
                 cylinder.setRotate(cylinder.getRotate()+10);
-                //camera.setTranslateZ(camera.getTranslateZ() + change);
+                //camera.setTranslateZ(camera.getTranslateZ() + change);gd
             }
             if (keyCode == KeyCode.S){
                 cylinder.setRotationAxis(Rotate.X_AXIS);
